@@ -1,14 +1,14 @@
 {
-  "name": "custom-react-scripts",
+  "name": "customized-react-scripts",
   "version": "0.2.1",
   "description": "Configuration and scripts for create-react-app",
-  "repository": "kitze/custom-react-scripts",
+  "repository": "jorer/custom-react-scripts",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/kitze/custom-react-scripts/issues"
+    "url": "https://github.com/jorer/custom-react-scripts/issues"
   },
   "files": [
     "bin",
